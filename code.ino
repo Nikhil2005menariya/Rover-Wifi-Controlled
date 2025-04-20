@@ -1,7 +1,4 @@
-/*Nodemcu ESP8266 WIFI control car.
- * This code created by sritu hobby team.
- * https://srituhobby.com
- */
+
  
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
